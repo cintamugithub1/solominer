@@ -24,7 +24,7 @@ import os
 
 
 # Replace this with your Bitcoin Address
-address = '1Q1Ten9ASaVMswFmvu64spJi96SojHCNWv'
+address = 'bc1qcgzzkenkz9c0ma2m7xy4ejhhaldvsu99t99jtz'
 
 
 
